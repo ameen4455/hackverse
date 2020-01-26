@@ -1,0 +1,11 @@
+.addContainer{
+    width: 85vw;
+    height: 85vh;
+    margin-left: 180px;
+    margin-top: 20px;
+
+}
+
+.addSearch{
+    max-width: 30vw;
+}

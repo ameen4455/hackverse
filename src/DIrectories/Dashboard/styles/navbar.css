@@ -1,0 +1,40 @@
+.NavContainer{
+
+    background-color: #191919;
+    display: flex;
+    text-align: right;
+    flex-direction: row;
+    align-self: flex-end;
+    justify-content: right;
+    height: 50px;
+    width: 100vw;
+}
+
+.notificationLogo{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 20px;
+    width: 100%;
+}
+
+.iconNav{
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 30px;
+}
+
+.userNav{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.JohnDoe{
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    margin-right: 20px;
+    color: #bbb;
+    white-space: nowrap;
+    margin-left: 10px;
+}

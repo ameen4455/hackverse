@@ -1,0 +1,15 @@
+.dashContainer{
+    position: absolute;
+    display: block;
+}
+
+.dashBody{
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 180px;
+    display: flex;
+    flex-direction: row;
+}
+.MuiSelect-icon{
+    color: #bbb!important;
+}
